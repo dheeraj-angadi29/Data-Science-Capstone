@@ -14,6 +14,3 @@
 <ul>Exploratory Data Analysis result</ul>
 <ul>Interactive analytics in screenshots</ul>
 <ul>Predictive Analytics result</ul>
-
-
-<h3>PPT credit Chukwuemeka Okoli (@chuksoo)</h3>
